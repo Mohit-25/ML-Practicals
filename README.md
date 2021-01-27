@@ -1,1 +1,1 @@
-# Machine Learning Programs
+# Machine Learning Practicals
